@@ -1,0 +1,40 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "clientId": "YOUR_APPLICATION_ID_HERE",
+  "guildId": "YOUR_SERVER_ID_HERE",
+  "logChannelId": "TICKET_LOGS_CHANNEL_ID_HERE",
+  "supportRoleId": "MAIN_STAFF_ROLE_ID_HERE",
+  "ticketPrefix": "ticket-",
+  "ticketCategories": [
+    {
+      "name": "Custom Mods/Plugins",
+      "description": "Install & configure content",
+      "emoji": "🛠️",
+      "roleId": "STAFF_ROLE_ID_HERE"
+    },
+    {
+      "name": "Network Issues",
+      "description": "Connectivity & routing problems",
+      "emoji": "🌐",
+      "roleId": "STAFF_ROLE_ID_HERE"
+    },
+    {
+      "name": "Account Security",
+      "description": "Account access & security",
+      "emoji": "🔒",
+      "roleId": "STAFF_ROLE_ID_HERE"
+    },
+    {
+      "name": "Partnership Inquiry",
+      "description": "Business partnerships & collabs",
+      "emoji": "🤝",
+      "roleId": "STAFF_ROLE_ID_HERE"
+    },
+    {
+      "name": "General Inquiry",
+      "description": "Other questions & support",
+      "emoji": "💬",
+      "roleId": "STAFF_ROLE_ID_HERE"
+    }
+  ]
+}

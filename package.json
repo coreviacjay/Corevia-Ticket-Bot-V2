@@ -1,0 +1,12 @@
+{
+  "name": "corevia-ticket-bot-v2",
+  "version": "2.0.0",
+  "description": "Corevia Global Ticket System Bot V2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
